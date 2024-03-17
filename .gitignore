@@ -1,3 +1,8 @@
+#Flexteamcoach project
+config.py
+secrets.json
+summoners.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
